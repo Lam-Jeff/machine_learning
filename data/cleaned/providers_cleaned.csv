@@ -1,0 +1,226 @@
+,id,company_id,provider_id,name,fullname,has_wifi,has_plug,has_adjustable_seats,has_bicycle,transport_type
+0,9,Ouibus,,ouibus,Ouibus,True,True,True,False,bus
+1,10,Deinbus.de,,deinbus,Deinbus.de,False,False,False,False,bus
+2,11,Infobus,,infobus,Infobus,False,False,False,False,bus
+3,12,Student Agency,,studentAgency,Student Agency,False,False,False,False,bus
+4,13,Flixbus,,flixbus,Flixbus,True,False,False,False,bus
+5,14,DriiveMe,,driivme,DriiveMe,False,False,False,False,car
+6,15,Alsa,,alsa,Alsa,False,False,False,False,bus
+7,16,Distribusion,,distribusion,Distribusion,False,False,False,False,bus
+8,17,Distribusion,31,expressbusMunchen,Expressbus Munchen,False,False,False,False,bus
+9,18,Distribusion,33,berlinLinienBus,Berlin Linien Bus,False,False,False,False,bus
+10,19,Distribusion,37,ostfrieslandexpress,OstfrieslandExpress,False,False,False,False,bus
+11,20,Distribusion,41,icBus,IC Bus,False,False,False,False,bus
+12,21,Distribusion,45,busandfly,Busandfly,False,False,False,False,bus
+13,22,Distribusion,47,publicexpress,Publicexpress,False,False,False,False,bus
+14,23,Distribusion,49,hahnExpress,Hahn Express,False,False,False,False,bus
+15,24,Distribusion,57,regionalverkehrErzgebirge,Regionalverkehr Erzgebirge,False,False,False,False,bus
+16,25,Distribusion,65,autobusoberbayern,AutobusOberbayern,False,False,False,False,bus
+17,26,Distribusion,77,schillingOmnibusverkehr,Schilling Omnibusverkehr,False,False,False,False,bus
+18,27,Distribusion,81,kraftReisen,Kraft Reisen,False,False,False,False,bus
+19,28,Distribusion,83,mayerMayer,Mayer  Mayer,False,False,False,False,bus
+20,29,Distribusion,85,ecolines,ECOLINES,False,False,False,False,bus
+21,30,Distribusion,111,vogtlandFernbus,Vogtland Fernbus,False,False,False,False,bus
+22,31,Distribusion,115,orlandREISEN,ORLAND REISEN,False,False,False,False,bus
+23,32,Distribusion,129,postbus,Postbus,False,False,False,False,bus
+24,33,Distribusion,141,expressbus,ExpressBus,False,False,False,False,bus
+25,34,Distribusion,149,berlinShuttle,Berlin Shuttle,False,False,False,False,bus
+26,35,Distribusion,151,matzesminibus,MatzesMinibus,False,False,False,False,bus
+27,36,Distribusion,159,autotrans,Autotrans,False,False,False,False,bus
+28,37,Distribusion,161,interbusKosiceExpress,Interbus Kosice Express,False,False,False,False,bus
+29,38,Distribusion,163,nisEkspres,Nis Ekspres,False,False,False,False,bus
+30,39,Distribusion,165,silvanaTour,Silvana Tour,False,False,False,False,bus
+31,40,Distribusion,167,sofiabus,SofiaBus,False,False,False,False,bus
+32,41,Distribusion,169,sportTurist,Sport Turist,False,False,False,False,bus
+33,42,Distribusion,171,turancar,Turancar,False,False,False,False,bus
+34,43,Distribusion,173,bigsimHalilovic,BIGSIM Halilovic,False,False,False,False,bus
+35,44,Distribusion,179,hkx,HKX,False,False,False,False,bus
+36,45,Distribusion,181,euroBus,Euro Bus,False,False,False,False,bus
+37,46,Distribusion,185,onebus,ONEBUS,False,False,False,False,bus
+38,47,Distribusion,189,usedomerBaderbahn,Usedomer Baderbahn,False,False,False,False,bus
+39,48,Distribusion,195,vincek,Vincek,False,False,False,False,bus
+40,49,Distribusion,203,semitimes,SemiTimeS,False,False,False,False,bus
+41,50,Distribusion,205,citybusexpress,CityBusExpress,False,False,False,False,bus
+42,51,Distribusion,207,unionivkoni,UnionIVKONI,False,False,False,False,bus
+43,52,Distribusion,209,mikanovicOmnibus,Mikanovic Omnibus,False,False,False,False,bus
+44,53,Distribusion,213,brabusz,Brabusz,False,False,False,False,bus
+45,54,Distribusion,215,srbijaToursInternational,Srbija Tours International,False,False,False,False,bus
+46,55,Distribusion,217,autoherc,AUTOHERC,False,False,False,False,bus
+47,56,Distribusion,219,jaskaTurist,Jaska Turist,False,False,False,False,bus
+48,57,Distribusion,221,europabusKarlovac,Europabus Karlovac,False,False,False,False,bus
+49,58,Distribusion,223,europabusCazin,Europabus Cazin,False,False,False,False,bus
+50,59,Distribusion,227,ireBerlinHamburg,IRE BerlinHamburg,False,False,False,False,bus
+51,60,Distribusion,229,domoReisen,Domo Reisen,False,False,False,False,bus
+52,61,Distribusion,267,gameksd.o.o.,Gameks d.o.o.,False,False,False,False,bus
+53,62,Distribusion,269,ludwigReisen,Ludwig Reisen,False,False,False,False,bus
+54,63,Distribusion,271,db,DB,False,False,False,False,bus
+55,64,Distribusion,285,eurobusOnline,Eurobus Online,False,False,False,False,bus
+56,66,Distribusion,289,eskanaBus,Eskana Bus,False,False,False,False,bus
+57,67,Distribusion,291,asKarpatenKrimTours,AS Karpaten  Krim Tours,False,False,False,False,bus
+58,68,Distribusion,293,blueLine,Blue Line,False,False,False,False,bus
+59,69,Distribusion,295,hasTurizm,Has Turizm,False,False,False,False,bus
+60,70,Distribusion,297,bozur,Bozur,False,False,False,False,bus
+61,71,Distribusion,299,nationalExpress,National Express,False,False,False,False,bus
+62,72,Distribusion,301,www.bus.today,Www.bus.today,False,False,False,False,bus
+63,73,Distribusion,303,polluzhaTours,Polluzha Tours,False,False,False,False,bus
+64,75,Distribusion,307,radinaVIP,Radina VIP,False,False,False,False,bus
+65,79,Distribusion,315,busOperator,Bus Operator,False,False,False,False,bus
+66,80,Distribusion,319,407Pattana,407 Pattana,False,False,False,False,bus
+67,81,Distribusion,321,88ExpressBus,88 Express Bus,False,False,False,False,bus
+68,82,Distribusion,323,99CoachlandExpress,99 Coachland Express,False,False,False,False,bus
+69,83,Distribusion,325,adangSeaTour,Adang Sea Tour,False,False,False,False,bus
+70,84,Distribusion,327,airUbon,Air Ubon,False,False,False,False,bus
+71,85,Distribusion,329,"alisanGoldenCoach,OneUtama","Alisan Golden Coach, One Utama",False,False,False,False,bus
+72,86,Distribusion,331,aran,Aran,False,False,False,False,bus
+73,87,Distribusion,333,bangkokBusline,Bangkok Busline,False,False,False,False,bus
+74,88,Distribusion,335,bellTravel,Bell Travel,False,False,False,False,bus
+75,89,Distribusion,337,billionStarsExpress,Billion Stars Express,False,False,False,False,bus
+76,90,Distribusion,339,budsarakhamTour,Budsarakham Tour,False,False,False,False,bus
+77,91,Distribusion,341,burapha,Burapha,False,False,False,False,bus
+78,92,Distribusion,343,busExpress,Bus Express,False,False,False,False,bus
+79,93,Distribusion,345,cepatSediaExpress,Cepat Sedia Express,False,False,False,False,bus
+80,94,Distribusion,347,chanapaiTour,Chanapai Tour,False,False,False,False,bus
+81,95,Distribusion,349,csTravelTours,CS Travel  Tours,False,False,False,False,bus
+82,96,Distribusion,351,delimaExpress,Delima Express,False,False,False,False,bus
+83,97,Distribusion,353,eagleExpress,Eagle Express,False,False,False,False,bus
+84,98,Distribusion,355,eraMesraExpress,ERA Mesra Express,False,False,False,False,bus
+85,99,Distribusion,357,esanTour,Esan Tour,False,False,False,False,bus
+86,100,Distribusion,359,etikaDeltaSdnBhd,Etika Delta Sdn Bhd,False,False,False,False,bus
+87,101,Distribusion,361,fiveStarsExecutiveExpress,Five Stars  Executive Express,False,False,False,False,bus
+88,102,Distribusion,363,goldenCoachExpress,Golden Coach Express,False,False,False,False,bus
+89,103,Distribusion,365,gtExpress,GT Express,False,False,False,False,bus
+90,104,Distribusion,367,hatyaiInterTopExpress,Hatyai Inter Top Express,False,False,False,False,bus
+91,105,Distribusion,369,hidayahSutera,Hidayah Sutera,False,False,False,False,bus
+92,106,Distribusion,371,jasmineExpress,Jasmine Express,False,False,False,False,bus
+93,107,Distribusion,373,kesatuanExpress,Kesatuan Express,False,False,False,False,bus
+94,108,Distribusion,375,kingdomTour,Kingdom Tour,False,False,False,False,bus
+95,109,Distribusion,377,kkklExpress,KKKL Express,False,False,False,False,bus
+96,110,Distribusion,379,kmkStarcoach,KMK Starcoach,False,False,False,False,bus
+97,111,Distribusion,381,komtarGunungRaya,Komtar Gunung Raya,False,False,False,False,bus
+98,112,Distribusion,383,konsortiumBasEkspres,Konsortium Bas Ekspres,False,False,False,False,bus
+99,113,Distribusion,385,kpbExpress,KPB Express,False,False,False,False,bus
+100,114,Distribusion,387,kraduengTour,Kradueng Tour,False,False,False,False,bus
+101,115,Distribusion,389,kwanCheeVeeTour,Kwan Chee Vee Tour,False,False,False,False,bus
+102,116,Distribusion,391,kwokPingExpress,Kwok Ping Express,False,False,False,False,bus
+103,117,Distribusion,393,lignite,Lignite,False,False,False,False,bus
+104,118,Distribusion,395,ligniteTour,Lignite Tour,False,False,False,False,bus
+105,119,Distribusion,397,lotusPhibunTour,Lotus Phibun Tour,False,False,False,False,bus
+106,120,Distribusion,399,mayangSariExpress,Mayang Sari Express,False,False,False,False,bus
+107,121,Distribusion,401,nakhonSi,Nakhon Si,False,False,False,False,bus
+108,122,Distribusion,403,newViriya,New Viriya,False,False,False,False,bus
+109,123,Distribusion,405,niomitTour,Niomit Tour,False,False,False,False,bus
+110,124,Distribusion,407,pattayaBus,Pattaya Bus,False,False,False,False,bus
+111,125,Distribusion,409,phantip1970,Phantip 1970,False,False,False,False,bus
+112,126,Distribusion,411,phetPrasert,Phet Prasert,False,False,False,False,bus
+113,127,Distribusion,413,phuLuangTour,Phu Luang Tour,False,False,False,False,bus
+114,128,Distribusion,415,phuketTravel,Phuket Travel,False,False,False,False,bus
+115,129,Distribusion,417,piya,Piya,False,False,False,False,bus
+116,130,Distribusion,419,piyaChaiPatthana,Piya Chai Patthana,False,False,False,False,bus
+117,131,Distribusion,421,piyaPrasertTour,Piya Prasert Tour,False,False,False,False,bus
+118,132,Distribusion,423,prakitYon,Prakit Yon,False,False,False,False,bus
+119,133,Distribusion,425,praya,Praya,False,False,False,False,bus
+120,134,Distribusion,427,premPracha,Prem Pracha,False,False,False,False,bus
+121,135,Distribusion,429,rungKit,Rung Kit,False,False,False,False,bus
+122,136,Distribusion,431,rungPrasert,Rung Prasert,False,False,False,False,bus
+123,137,Distribusion,433,saengPrathipDaeng,Saeng Prathip Daeng,False,False,False,False,bus
+124,138,Distribusion,435,sahaphan,Sahaphan,False,False,False,False,bus
+125,139,Distribusion,437,sappaisal,Sappaisal,False,False,False,False,bus
+126,140,Distribusion,439,sawadeeEsan,Sawadee Esan,False,False,False,False,bus
+127,141,Distribusion,441,sawadeeTour,Sawadee Tour,False,False,False,False,bus
+128,142,Distribusion,443,seExpress,SE Express,False,False,False,False,bus
+129,143,Distribusion,445,seasonsExpress,Seasons Express,False,False,False,False,bus
+130,144,Distribusion,447,siamFirst,Siam First,False,False,False,False,bus
+131,145,Distribusion,449,siamLaneTour,Siam Lane Tour,False,False,False,False,bus
+132,146,Distribusion,451,sombat,Sombat,False,False,False,False,bus
+133,147,Distribusion,453,sriMongkol,Sri Mongkol,False,False,False,False,bus
+134,148,Distribusion,455,sriSiamTour,Sri Siam Tour,False,False,False,False,bus
+135,149,Distribusion,457,sriSuthepTour,Sri Suthep Tour,False,False,False,False,bus
+136,150,Distribusion,459,sriTrang,Sri Trang,False,False,False,False,bus
+137,151,Distribusion,461,starCoachExpressSdnBhd,Star Coach Express Sdn Bhd,False,False,False,False,bus
+138,152,Distribusion,463,starShuttleExpress,Star Shuttle Express,False,False,False,False,bus
+139,153,Distribusion,465,starqistnaExpress,StarQistna Express,False,False,False,False,bus
+140,154,Distribusion,467,suasanaEdaranExpress,Suasana Edaran Express,False,False,False,False,bus
+141,155,Distribusion,469,sueksaTour,Sueksa Tour,False,False,False,False,bus
+142,156,Distribusion,471,sunBus,Sun Bus,False,False,False,False,bus
+143,157,Distribusion,473,superNiceExpress,Super Nice Express,False,False,False,False,bus
+144,158,Distribusion,475,suvarnabhumiBurapha,Suvarnabhumi Burapha,False,False,False,False,bus
+145,159,Distribusion,477,suwannatee,Suwannatee,False,False,False,False,bus
+146,160,Distribusion,479,swarnaBumiExpress,Swarna Bumi Express,False,False,False,False,bus
+147,161,Distribusion,481,thaiSriram,Thai Sriram,False,False,False,False,bus
+148,162,Distribusion,483,thaisanuanTour,Thaisanuan Tour,False,False,False,False,bus
+149,163,Distribusion,485,thianChai,Thian Chai,False,False,False,False,bus
+150,164,Distribusion,487,transtarTravel,Transtar Travel,False,False,False,False,bus
+151,165,Distribusion,489,tripleT,Triple T,False,False,False,False,bus
+152,166,Distribusion,491,unititiExpress,Unititi Express,False,False,False,False,bus
+153,167,Distribusion,493,yakinBGExpress,Yakin BG Express,False,False,False,False,bus
+154,168,Distribusion,495,yasothonTour,Yasothon Tour,False,False,False,False,bus
+155,169,Distribusion,497,yoyoExpress,YoYo Express,False,False,False,False,bus
+156,170,Distribusion,499,drinatrans,Drinatrans,False,False,False,False,bus
+157,171,Distribusion,503,simeonidisTours,Simeonidis Tours,False,False,False,False,bus
+158,172,Distribusion,505,vipEuropa,VIP Europa,False,False,False,False,bus
+159,173,Distribusion,507,eurolinesUK,Eurolines UK,False,False,False,False,bus
+160,174,Distribusion,509,pyrzowiceEkspres,Pyrzowice Ekspres,False,False,False,False,bus
+161,175,Distribusion,511,hinztravel,HinzTravel,False,False,False,False,bus
+162,176,Distribusion,513,calandaViaggi,Calanda Viaggi,False,False,False,False,bus
+163,177,Distribusion,515,poloniaTours,Polonia Tours,False,False,False,False,bus
+164,178,Distribusion,517,madeltransEurolines,Madeltrans Eurolines,False,False,False,False,bus
+165,179,Distribusion,519,arda,Arda,False,False,False,False,bus
+166,180,Distribusion,521,intercarsEurope,Intercars Europe,False,False,False,False,bus
+167,181,Distribusion,523,ulusoy,Ulusoy,False,False,False,False,bus
+168,182,Distribusion,525,ollex,Ollex,False,False,False,False,bus
+169,183,Distribusion,527,retman,Retman,False,False,False,False,bus
+170,184,Distribusion,529,eberhardtTravel,Eberhardt Travel,False,False,False,False,bus
+171,185,Distribusion,531,elabus,Elabus,False,False,False,False,bus
+172,186,Distribusion,533,pragueAirportShuttle,Prague Airport Shuttle,False,False,False,False,bus
+173,187,Distribusion,535,goopti,GoOpti,False,False,False,False,bus
+174,188,Distribusion,537,andradeVoyages,Andrade Voyages,False,False,False,False,bus
+175,189,Distribusion,539,christianTransfers,Christian Transfers,False,False,False,False,bus
+176,190,Distribusion,541,sindbad,Sindbad,False,False,False,False,bus
+177,191,Distribusion,543,tourbusBulgaria,Tourbus Bulgaria,False,False,False,False,bus
+178,192,Distribusion,545,globtour,Globtour,False,False,False,False,bus
+179,193,Distribusion,547,huben,Huben,False,False,False,False,bus
+180,194,Distribusion,549,schipholHotelShuttle,Schiphol Hotel Shuttle,False,False,False,False,bus
+181,195,Distribusion,551,transjug,TransJug,False,False,False,False,bus
+182,196,Distribusion,553,rally13,Rally 13,False,False,False,False,bus
+183,197,Distribusion,555,lauroraViaggi,LAurora Viaggi,False,False,False,False,bus
+184,198,Distribusion,557,comatiPSG,Comati PSG,False,False,False,False,bus
+185,199,Distribusion,559,adamisTours,Adamis Tours,False,False,False,False,bus
+186,200,Distribusion,561,racicEurobus,Racic Eurobus,False,False,False,False,bus
+187,201,Distribusion,563,coraliHolidays,Corali Holidays,False,False,False,False,bus
+188,202,Distribusion,565,magicalShuttle,Magical Shuttle,False,False,False,False,bus
+189,203,Distribusion,567,jetbus,Jetbus,False,False,False,False,bus
+190,204,Distribusion,569,aerobus,AeroBus,False,False,False,False,bus
+191,205,Distribusion,571,transfersPro,Transfers Pro,False,False,False,False,bus
+192,206,Distribusion,573,lvivInturtrans,Lviv Inturtrans,False,False,False,False,bus
+193,207,Distribusion,575,panonijabus,Panonijabus,False,False,False,False,bus
+194,208,Distribusion,577,galicjaExpress,Galicja Express,False,False,False,False,bus
+195,209,Distribusion,579,crnjaTours,Crnja Tours,False,False,False,False,bus
+196,210,Distribusion,581,fils,Fils,False,False,False,False,bus
+197,211,Distribusion,583,estGdansk,EST Gdansk,False,False,False,False,bus
+198,212,Distribusion,589,drdTurizem,DRD Turizem,False,False,False,False,bus
+199,214,Distribusion,593,euroclub,Euroclub,False,False,False,False,bus
+200,215,Distribusion,595,panturist,Panturist,False,False,False,False,bus
+201,216,Distribusion,597,navettedeVatry,Navette de Vatry,False,False,False,False,bus
+202,217,Distribusion,599,flybusIceland,Flybus Iceland,False,False,False,False,bus
+203,218,Distribusion,601,smsFlughafentransfer,SMS Flughafentransfer,False,False,False,False,bus
+204,219,Distribusion,603,airDecker,Air Decker,False,False,False,False,bus
+205,220,Distribusion,605,eilatShuttle,Eilat Shuttle,False,False,False,False,bus
+206,221,Distribusion,607,wagnerTransport,Wagner Transport,False,False,False,False,bus
+207,222,Distribusion,611,fiumicinoExpress,Fiumicino Express,False,False,False,False,bus
+208,4511,Voyages SNCF,,vsc,Voyages SNCF,False,False,False,False,train
+209,8371,Transdev,I,isilines,Isilines,True,True,True,False,bus
+210,8372,Transdev,E,eurolines,Eurolines,False,False,True,False,bus
+211,8373,Transdev,M,movelia,Movelia,False,False,False,False,bus
+212,8374,Transdev,,transdev,Transdev,,,,,bus
+213,8375,Voyages SNCF,0,trainter,TER,False,False,True,False,train
+214,8376,Voyages SNCF,1,tgv,TGV,False,False,True,False,train
+215,8377,Voyages SNCF,2,corailintercite,Intercités,False,False,True,False,train
+216,8378,Voyages SNCF,3,tramtrain,Tramtrain,False,False,True,False,train
+217,8379,Voyages SNCF,4,navette,Navette Keolis,False,False,True,False,bus
+219,8381,Voyages SNCF,6,coraillunea,Intercités de Nuit,False,False,True,False,train
+220,8382,Voyages SNCF,8,eurostar,Eurostar,False,False,True,False,train
+222,8384,Voyages SNCF,16,thalys,Thalys,True,True,False,True,train
+223,8385,Blablacar,,bbc,Blablacar,False,False,False,False,carpooling
+224,8387,Vatry,,vatry,Vatry,,,,,bus
+225,8388,Beauval,,beauval,Beauval,,,,,bus
+226,8389,idVroom,,idvroom,idVroom,False,False,False,False,carpooling
